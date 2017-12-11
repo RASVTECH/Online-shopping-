@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+<P>uR IN admin index</P>
 </body>
 </html>
