@@ -38,6 +38,9 @@
         echo "No Request";
     } ?>
 </select>
+<div class="alert alert-danger" role="alert">
+    <?php if(isset($error_message)) echo $error_message; ?> 
+ </div>
 
 
 <script type="text/javascript" src="../js/jquery-3.2.1.js"></script> 

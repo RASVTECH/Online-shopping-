@@ -17,7 +17,7 @@ $(document).ready(function(){
             //         alert("No DATA");
             //     }
             // }
-            url : 'addProducts.php',
+            url : '/PHP/rasv/e-kart/admin/addProducts.php',
             data : dataString
         });
     });
